@@ -1,0 +1,57 @@
+/* SearchResult */
+
+.searchResult {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--greenBackgroundColor-color);
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    border-radius: 3rem;
+}
+
+.searchResult__regex {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(255, 0, 0, 0.746);
+    font-size: 1.4rem;
+}
+
+.searchResult__title {
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    color: var(--textOnGreenBackgroundColor-color);
+    font-size: 2rem;
+}
+
+.searchResult__input-glassIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchResult__input-glassIcon label input {
+    height: 27px;
+    margin-right: -34px;
+    padding-right: 35px;
+    padding-top: 1px;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    font-size: 1.3rem;
+}
+
+.searchResult__input-glassIcon button {
+    width: 29px;
+    height: 29px;
+    border: 0 solid;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.searchResult__input-glassIcon__GlassIcon {
+    width: 29px;
+    height: 29px;
+    margin: 0;
+    padding: 0;
+}
