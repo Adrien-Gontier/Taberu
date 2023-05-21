@@ -1,0 +1,20 @@
+/* Navbar */
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.navbar a {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar__homeIcon,
+.navbar__emptyStarIcon,
+.navbar__glassIcon,
+.navbar__barcodeIcon {
+    width: 30px;
+    height: 30px;
+}
