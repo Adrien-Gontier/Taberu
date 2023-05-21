@@ -1,0 +1,36 @@
+/* Name Number Search */
+
+.nameNumberSearch {
+    display: flex;
+    flex-direction: column;
+}
+
+.nameNumberSearch p {
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    font-size: 1.2rem;
+    color: var(--textOnGreenBackgroundColor-color);
+}
+
+.nameNumberSearch__input-glassIcon {
+    display: flex;
+    justify-content: center;
+}
+
+.nameNumberSearch__input-glassIcon label input {
+    height: 25px;
+    margin-right: -32px;
+    padding-right: 35px;
+    font-family: "Questrial", sans-serif;
+    font-size: 13px;
+}
+
+.nameNumberSearch__input-glassIcon a {
+    width: 30px;
+    height: 30px;
+}
+
+.nameNumberSearch__input-glassIcon__GlassIcon {
+    width: 30px;
+    height: 30px;
+}
