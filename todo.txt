@@ -1,0 +1,2 @@
+- Do the documentation in README.md
+- Set ESLint and Prettier
