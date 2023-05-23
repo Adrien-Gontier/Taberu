@@ -1,2 +1,6 @@
 - Do the documentation in README.md
+ -> Command Line
+ -> Links to (node.js) 
+
+
 - Set ESLint and Prettier
