@@ -4,3 +4,4 @@
 
 
 - Set ESLint and Prettier
+- Factorize the code
