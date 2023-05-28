@@ -5,3 +5,4 @@
 
 - Set ESLint and Prettier
 - Factorize the code
+- Do desktop view
