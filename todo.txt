@@ -6,3 +6,13 @@
 - Set ESLint and Prettier
 - Factorize the code
 - Do desktop view
+- Set Sass
+
+
+Command line Sass : sass --watch ./src/assets/sass/main.scss:./src/assets/sass/App.css --style compressed
+
+Command line Prettier : npx prettier --write .
+
+
+
+Think to run Prettier then Sass to format App.css.map
