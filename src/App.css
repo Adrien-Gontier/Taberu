@@ -9,26 +9,23 @@
 @import url(./style/product.css);
 @import url(./style/navbar.css);
 
-
 @font-face {
-    font-family: "LexendDeca";
+    font-family: 'LexendDeca';
     src: url(./assets/fonts/LexendDeca-SemiBold.ttf);
 }
 
 @font-face {
-    font-family: "Questrial";
-    src: url(./assets/fonts/Questrial-Regular.ttf)
+    font-family: 'Questrial';
+    src: url(./assets/fonts/Questrial-Regular.ttf);
 }
-
 
 :root {
-    --applicationTitle-fontFamily: "LexendDeca", sans-serif;
+    --applicationTitle-fontFamily: 'LexendDeca', sans-serif;
     --applicationTitle-color: #000;
-    --greenBackgroundColor-color: #6F9939;
-    --textOnGreenBackgroundColor-fontFamily: "Questrial", sans-serif;
-    --textOnGreenBackgroundColor-color: #C9CCD2;
+    --greenBackgroundColor-color: #6f9939;
+    --textOnGreenBackgroundColor-fontFamily: 'Questrial', sans-serif;
+    --textOnGreenBackgroundColor-color: #c9ccd2;
 }
-
 
 body {
     margin: 1rem;
