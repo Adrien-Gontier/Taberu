@@ -1,3 +1,3 @@
-import { createContext } from "react";
-const NameNumberContext = createContext(null);
-export default NameNumberContext;
+import { createContext } from 'react'
+const NameNumberContext = createContext(null)
+export default NameNumberContext
