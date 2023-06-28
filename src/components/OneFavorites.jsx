@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import NutriscorPictA from '../assets/pictures/nutriscore-a.svg'
-import NutriscorPictB from '../assets/nutriscore-b.svg'
+import NutriscorPictB from '../assets/pictures/nutriscore-b.svg'
 import NutriscorPictC from '../assets/nutriscore-c.svg'
 import NutriscorPictD from '../assets/nutriscore-d.svg'
 import NutriscorPictE from '../assets/nutriscore-e.svg'
