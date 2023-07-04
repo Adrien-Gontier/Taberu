@@ -6,7 +6,7 @@ import NutriscorPictD from '../assets/pictures/nutriscore-d.svg'
 import NutriscorPictE from '../assets/pictures/nutriscore-e.svg'
 import NutriscorPictUnknow from '../assets/pictures/nutriscore-unknown.svg'
 import FavoritesEmptyIcon from '../assets/pictures/black_empty_star_icon.svg'
-import FavoritesFullIcon from '../assets/gold_full_star_icon.svg'
+import FavoritesFullIcon from '../assets/pictures/gold_full_star_icon.svg'
 import FavoritesContext from '../context/FavoritesContext'
 
 export default function OneFavorites(props) {
