@@ -1,7 +1,7 @@
 import axios from 'axios'
 import React, { useContext, useEffect, useState } from 'react'
 import BarCodeContext from '../context/BarCodeContext'
-import BarCodePicture from '../assets/bar_code_icon.svg'
+import BarCodePicture from '../assets/pictures/bar_code_icon.svg'
 import { useNavigate } from 'react-router-dom'
 import ProductResultContext from '../context/ProductResultContext'
 
