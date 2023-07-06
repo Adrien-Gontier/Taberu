@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useContext } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import GlassIcon from '../assets/glass_magnifier_search_icon.svg'
+import GlassIcon from '../assets/pictures/glass_magnifier_search_icon.svg'
 import ProductResultContext from '../context/ProductResultContext'
 import axios from 'axios'
 
