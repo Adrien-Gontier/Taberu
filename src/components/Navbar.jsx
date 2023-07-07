@@ -1,5 +1,5 @@
 import homeIcon from '../assets/home_icon.svg'
-import blackEmptyStar from '../assets/black_empty_star_icon.svg'
+import blackEmptyStar from '../assets/pictures/black_empty_star_icon.svg'
 import glass from '../assets/glass_magnifier_search_icon.svg'
 import barCodePict from '../assets/bar_code_icon.svg'
 import { Link } from 'react-router-dom'
