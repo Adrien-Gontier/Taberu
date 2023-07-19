@@ -1,0 +1,14 @@
+
+.barCodeSearch {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    font-size: 1.2rem;
+    color: var(--textOnGreenBackgroundColor-color);
+}
+
+.app__videoFeed {
+    width: 12rem;
+    height: 12rem;
+}
