@@ -1,0 +1,55 @@
+
+.favorites {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--greenBackgroundColor-color);
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    border-radius: 3rem;
+}
+
+.favorites__title {
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    color: var(--textOnGreenBackgroundColor-color);
+    font-size: 2rem;
+}
+
+.favorites__oneProduct {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 0;
+}
+
+.favorites__DivTag {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.favorites__DivTag__productPict {
+    inline-size: 70%;
+    align-items: center;
+}
+
+.favorites__name {
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    color: var(--textOnGreenBackgroundColor-color);
+    font-size: 2rem;
+}
+
+.favorites__caloriesPer100 {
+    text-align: center;
+    font-family: var(--textOnGreenBackgroundColor-fontFamily);
+    color: var(--textOnGreenBackgroundColor-color);
+    font-size: 1.4rem;
+}
