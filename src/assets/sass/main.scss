@@ -1,28 +1,4 @@
-/* BODY */
-
-@import './base/body';
-@import './base/fonts';
-@import './utils/font-variable';
-
-/* HEADER */
-
-@import './layout/header';
-@import './components/title';
-@import './components/deconnect-btn';
-@import './components/createProject-link';
-
-/* PAGES */
-
-@import './pages/projects';
-@import './pages/createProject';
-@import './pages/allProjects';
-@import './pages/createTask';
-@import './pages/oneProject';
-@import './pages/login';
-@import './pages/registration';
-
 /* COMPONENTS */
 
-@import './components/miniProject-link';
-@import './components/createProject-link';
-@import './components/loader';
+@import './components/barCodeSearch';
+@import './components/doubleSearch';
