@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Title from './components/Title'
 import Navbar from './components/Navbar'
-import './App.css'
 import NameNumberContext from './context/NameNumberContext'
 import BarCodeContext from './context/BarCodeContext'
 import { useState } from 'react'
