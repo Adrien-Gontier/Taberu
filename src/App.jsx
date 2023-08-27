@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import './assets/sass/App.css'
 import Title from './components/Title'
 import Navbar from './components/Navbar'
 import NameNumberContext from './context/NameNumberContext'
